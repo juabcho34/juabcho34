@@ -1,6 +1,6 @@
-# Hola, soy **Juan Martin Hernandez Baez** 👋
+# Hi, I'm **Juan Martin Hernandez Baez** 👋
 
-Me apasiona enseñar, programar y explorar la inteligencia artificial generativa y el análisis de datos. Actualmente trabajo atendiendo un local y estudio Ingeniería Mecatrónica. He participado en varios proyectos relacionados con inteligencia artificial y manejo avanzado de datos, buscando siempre integrar mis habilidades en tecnologías modernas.
+I’m passionate about teaching, programming, and exploring generative artificial intelligence and data analysis. Currently, I work managing a local store while studying Mechatronics Engineering. I've had the opportunity to participate in various projects related to artificial intelligence and advanced data handling, always aiming to integrate my skills with cutting-edge technologies.
 
 ## Programming Languages
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white" height="20"/> &nbsp; 
@@ -20,11 +20,16 @@ Me apasiona enseñar, programar y explorar la inteligencia artificial generativa
   <img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
 
 ## Interests
-- **Inteligencia Artificial Generativa**
-- **Análisis de Datos**
-- **Automatización y Robótica**
-- **LaTeX y Documentación Técnica**
-- **Python Avanzado y Frameworks de IA**
+- **Generative Artificial Intelligence**
+- **Data Analysis**
+- **Automation and Robotics**
+- **LaTeX and Technical Documentation**
+- **Advanced Python and AI Frameworks**
 
-## Contacto
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-martin-hernandez-baez-564796288/)](https://www.linkedin.com/in/juan-martin-hernandez-baez-564796288/)
+## Experience
+- Participation in programming projects focused on **Generative Artificial Intelligence** and machine learning.
+- Practical skills in **data handling**, **mathematical modeling**, and **statistical analysis**.
+- Proficiency in using tools like **GitHub** for version control and collaboration.
+
+## Contact
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-martin-hernandez-baez-564796288/)](https://www.linkedin.com/in/juan-martin-hernandez-baez-564796288/)
